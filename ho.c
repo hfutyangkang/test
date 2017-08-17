@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#define MAX 5
 void myfunction()
 {
  printf("my function\n");
